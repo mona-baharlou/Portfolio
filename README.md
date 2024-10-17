@@ -1,7 +1,9 @@
 # Portfolio
-Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing.
+Hello, I as anandroid developer, always follow best practices for android application and ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing.
 
 # Shopping Bag Application
+This is a bag shopping Android app that allows users to sign up, sign in, browse a list of products, view product categories, select products to add to their cart, proceed to a payment link, view payment results, and leave comments for each product. The app is built using Kotlin, Jetpack Compose, Room for offline caching, Retrofit for API calls, Koin for dependency injection, MVVM architecture pattern, Coroutines for asynchronous programming, and Coil for image loading.
+
 ## Technologies
 Kotlin, Jetpack Compose, Room for offline caching, Retrofit for API calls, Koin for dependency injection, MVVM architecture pattern, Coroutines for asynchronous programming, and Coil for image loading.
 
